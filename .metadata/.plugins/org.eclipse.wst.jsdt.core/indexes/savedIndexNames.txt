@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\tatuc_000.BAT-PC\eclipse-web\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1965687930.index
+3168478447.index
+2457490519.index
+645682284.index
+3168478447.index
+1636737534.index
+3955185456.index
